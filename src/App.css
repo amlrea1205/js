@@ -1,0 +1,10 @@
+.App {
+  max-width:600px;
+   border:1px solid lightgray;
+   margin:10px auto;
+   padding:20px;
+   box-sizing:border-box;
+
+   display: flex;
+   flex-dirextin: column;
+}
